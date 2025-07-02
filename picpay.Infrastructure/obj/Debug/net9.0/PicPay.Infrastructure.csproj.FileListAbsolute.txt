@@ -17,3 +17,4 @@ C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Infrastructure\obj\Debu
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Infrastructure\obj\Debug\net9.0\ref\PicPay.Infrastructure.dll
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Infrastructure\bin\Debug\net9.0\PicPay.Infrastructure.runtimeconfig.json
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Infrastructure\obj\Debug\net9.0\PicPay.Infrastructure.genruntimeconfig.cache
+C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Infrastructure\obj\Debug\net9.0\PicPay.Infrastructure.sourcelink.json

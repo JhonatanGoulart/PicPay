@@ -20,3 +20,4 @@ C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Domain\obj\Debug\net9.0
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Domain\obj\Debug\net9.0\refint\PicPay.Domain.dll
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Domain\obj\Debug\net9.0\PicPay.Domain.pdb
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Domain\obj\Debug\net9.0\ref\PicPay.Domain.dll
+C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Domain\obj\Debug\net9.0\PicPay.Domain.sourcelink.json

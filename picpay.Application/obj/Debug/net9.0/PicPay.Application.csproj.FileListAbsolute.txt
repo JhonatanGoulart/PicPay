@@ -28,3 +28,4 @@ C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Application\obj\Debug\n
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Application\obj\Debug\net9.0\refint\PicPay.Application.dll
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Application\obj\Debug\net9.0\PicPay.Application.pdb
 C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Application\obj\Debug\net9.0\ref\PicPay.Application.dll
+C:\Users\JhonatanAntônioGoula\projetos c#\picpay\PicPay.Application\obj\Debug\net9.0\PicPay.Application.sourcelink.json
